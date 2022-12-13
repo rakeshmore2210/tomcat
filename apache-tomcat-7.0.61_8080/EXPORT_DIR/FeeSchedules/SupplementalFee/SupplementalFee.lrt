@@ -1,0 +1,16 @@
+RateTable SupplementalFee
+AccessType : ISSUE
+Header
+{
+	Conditions
+	{
+		UserKey
+		State
+		Age
+		Duration
+	}
+	Actions
+	{
+		Rate
+	}
+}

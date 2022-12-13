@@ -1,0 +1,15 @@
+RateTable DentalNegotiatedFee4
+AccessType : ISSUE
+Header
+{
+	Conditions
+	{
+		UserKey
+		Age
+		Duration
+	}
+	Actions
+	{
+		Rate
+	}
+}

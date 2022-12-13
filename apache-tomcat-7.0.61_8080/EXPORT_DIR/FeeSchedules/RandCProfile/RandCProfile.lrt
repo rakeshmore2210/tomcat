@@ -1,0 +1,19 @@
+RateTable DentalRandCCharges
+AccessType : ISSUE
+//Updated
+
+Header
+{
+	Conditions
+	{
+		BandAmount
+		UserKey
+		State
+		Age
+		Duration
+	}
+	Actions
+	{
+		Rate
+	}
+}
